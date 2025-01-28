@@ -6,7 +6,7 @@
 - Binary Tree structures (Project 2) - 10/10
 
 # INP - Design of Computer Systems
-- VHDL Simple Instruction Set CPU (Project 1) - 18/23 (-5 points for no nested loops)
+- VHDL Simple Instruction Set CPU (Project 1) - 18/23
 - MIPS64 Assembly Caesar Cipher (Project 2) - 10/10
 
 # IFJ - Formal Languages and Compilers
