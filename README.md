@@ -2,27 +2,27 @@
 ## Collection of BUT FIT projects / Soubor projektů VUT FIT
 
 # IAL - Algorithms
-- Project 1 - 8/8
-- Project 2 - 10/10
+- Linked List, Queue, Hashtable structures (Project 1) - 8/8
+- Binary Tree structures (Project 2) - 10/10
 
 # INP - Design of Computer Systems
-- Project 2 - 10/10
+- MIPS64 Assembly Caesar Cipher (Project 2) - 10/10
 
 # IFJ - Formal Languages and Compilers
-- [IFJ24](https://github.com/0x6B6/IFJ24-interpreter) - 16.4/18
+- [IFJ24 Compiler](https://github.com/0x6B6/IFJ24-interpreter) - 16.4/18
 
 # IOS - Operating Systems
-- Project 1 - 13/15
-- [IOS 2](https://github.com/0x6B6/IOS-2024-project-2) - 15/15
+- Shell script (Project 1) - 13/15
+- [Processes and Semaphores (Project 2)](https://github.com/0x6B6/IOS-2024-project-2) - 15/15
 
 # IZG - Computer Graphics Principles
-- 17.36/20
+- GPU Pipeline Simulation - 17.36/20
 
 # INC - Digital Systems Design
-- 15/15
+- VHDL UART - 15/15
 
 # IZP - Introduction to Programming Systems
-- Project 1 - 11.5/10
+- Text Filtering (Project 1) - 10/10 + 1.5 bonus
 
 # IZLO - Introduction to Logic for Computer Science
-- Project 1 - 10/10
+- SAT solving (Project 1) - 10/10
