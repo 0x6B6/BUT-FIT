@@ -19,7 +19,10 @@
 - 17.36/20
 
 # INC - Digital Systems Design
-- tbd
+- 15/15
 
 # IZP - Introduction to Programming Systems
 - Project 1 - 11.5/10
+
+# IZLO - Introduction to Logic for Computer Science
+- Project 1 - 10/10
