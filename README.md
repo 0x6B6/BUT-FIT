@@ -1,5 +1,6 @@
 ## Collection of BUT FIT projects / Soubor projektů VUT FIT
 
+## 2024/2025
 ### IAL - Algorithms
 - Linked List, Queue, Hashtable structures (Project 1) - 8/8
 - Binary Tree structures (Project 2) - 10/10
@@ -14,6 +15,7 @@
 ### ITU - User Interface Programming
 - React + Django application - 51/55
 
+## 2023/2024
 ### IOS - Operating Systems
 - Shell script (Project 1) - 13/15
 - [Processes and Semaphores (Project 2)](https://github.com/0x6B6/IOS-2024-project-2) - 15/15
