@@ -57,3 +57,5 @@ This repository serves as an archive of completed school projects.
 
 ### ITS
 -tbd
+
+## 2025/2026
